@@ -16,7 +16,7 @@ En este proyecto hemos creado tres juegos clásicos usando el lenguaje Phyton, u
  
  **Cómo jugar:** - Elige entre "Piedra", "Papel" o "Tijera". - La computadora también hará una elección. - Las reglas son simples: - Piedra aplasta Tijera - Tijera corta Papel - Papel envuelve Piedra - Gana si tu elección vence a la de la computadora.
 
- #### VISTA PREVIA DE LOS JUEGOS EN EJECUCION
+ ## VISTA PREVIA DE LOS JUEGOS EN EJECUCION
 
  <img src="https://github.com/jackyto20/mi_primer_repo/blob/main/ahorcado.PNG" width="250"/>
 
