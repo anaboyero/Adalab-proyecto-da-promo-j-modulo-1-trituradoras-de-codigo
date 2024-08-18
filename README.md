@@ -83,7 +83,7 @@ https://www.linkedin.com/in/ana-boyero-44807835
 indicar correo
 - Elena Craven Miñarro 
 https://www.linkedin.com/in/elenacravenmiñarro
-agregar correo
+elena.crami@gmail.com
 - Jacqueline Yusty Espinosa 
 https://es.linkedin.com/in/jacqueline-yusty-espinosa-3112681
 jackeline_yusti@yahoo.com
