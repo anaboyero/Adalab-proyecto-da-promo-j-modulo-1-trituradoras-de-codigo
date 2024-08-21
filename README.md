@@ -58,10 +58,10 @@ Para jugar cualquiera de los juegos, sigue estos pasos:
 
 2. Una vez alli encontrarás los cuatro juegos. Es importante tener en cuenta que durante el desarrollo de algunos de ellos fuimos creando diferentes versiones hasta llegar a una  mejorada que es la que debes ejecutar para que cada juego corra en la version más actualizada, a continuación te indicamos cuales son:
    
-    - juego_ppt_v2.ipynb
+    - juego_ppt_v4.ipynb
     - juego_trivia_v3.ipynb
-    - juego_ahorcado_v2.ipynb
-    - juego_tictactoe_v1.ipynb
+    - juego_ahorcado_v3.ipynb
+    - juego_tictactoe_v2.ipynb
 
 
 ## ESTRUCTURA DEL PROYECTO
