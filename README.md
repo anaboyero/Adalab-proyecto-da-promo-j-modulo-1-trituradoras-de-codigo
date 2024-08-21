@@ -66,13 +66,17 @@ Para jugar cualquiera de los juegos, sigue estos pasos:
 
 ## ESTRUCTURA DEL PROYECTO
 
-trituradoras_juegos/
+Adalab-proyecto-da-promo-j-modulo-1-trituradoras_juegos/
 
-- juego_ahorcado_v1.ipynb (Codigo para el juego Ahorcado - Version Inicial (MVP))
-- juego_ahorcado_v2.ipynb (Codigo para el juego Ahorcado - Version Actualizada)
+- juego_ahorcado_v1.ipynb (Código para el juego Ahorcado - Version Inicial (MVP))
+- juego_ahorcado_v2.ipynb (Código para el juego Ahorcado - Version Actualizada)
+- juego_ahorcado_v3.ipynb (Código para el juego Ahorcado - Version Mejorada sin error en Outputs)
 - juego_ppt_v1.ipynb  (Código para el juego de Piedra, Papel o Tijera - Version Inicial (MVP))
-- juego_ppt_v2.ipynb  (Código para el juego de Piedra, Papel o Tijera - Version Mejorada)
+- juego_ppt_v2.ipynb  (Código para el juego de Piedra, Papel o Tijera - Version Actualizada)
+- juego_ppt_v3.ipynb (Código para el juego de Piedra, Papel o Tijera - Version Mejorada)
+- juego_pp_v4.ipynb (Código para el juego de Piedra, Papel o Tijera - Version Mejorada sin error en Outputs)
 - juego_tictactoe_v1.ipynb (Código para el juego del Trivial - Version Inicial)
+- juego_tictactoe_v2.ipynb (Código para el juego del Trivial - Version Inicial)
 - juego_trivia_v1.ipynb (Código para el juego del Trivial - Version Inicial (MVP))
 - juego_trivia_v2.ipynb (Código para el juego del Trivial - Version Inicial (MVP+))
 - juego_trivia_v3.ipynb (Código para el juego del Trivial - Version Mejorada)
