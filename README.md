@@ -54,7 +54,7 @@ Para jugar cualquiera de los juegos, sigue estos pasos:
 
 1. **Clona este repositorio** a tu máquina local:
  
-        git clone https://github.com/anaboyero/trituradoras_juegos
+        git clone https://github.com/anaboyero/Adalab-proyecto-da-promo-j-modulo-1-trituradoras-de-codigo
 
 2. Una vez alli encontrarás los cuatro juegos. Es importante tener en cuenta que durante el desarrollo de algunos de ellos fuimos creando diferentes versiones hasta llegar a una  mejorada que es la que debes ejecutar para que cada juego corra en la version más actualizada, a continuación te indicamos cuales son:
    
